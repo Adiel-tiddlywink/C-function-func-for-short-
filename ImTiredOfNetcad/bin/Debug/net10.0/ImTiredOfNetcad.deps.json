@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ImTiredOfNetcad/1.0.0": {
+        "runtime": {
+          "ImTiredOfNetcad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImTiredOfNetcad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

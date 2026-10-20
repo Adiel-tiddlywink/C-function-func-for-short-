@@ -1,0 +1,15 @@
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/bin/Debug/net10.0/ImTiredOfNetcad
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/bin/Debug/net10.0/ImTiredOfNetcad.deps.json
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/bin/Debug/net10.0/ImTiredOfNetcad.runtimeconfig.json
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/bin/Debug/net10.0/ImTiredOfNetcad.dll
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/bin/Debug/net10.0/ImTiredOfNetcad.pdb
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.AssemblyInfoInputs.cache
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.AssemblyInfo.cs
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.csproj.CoreCompileInputs.cache
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.sourcelink.json
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.dll
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/refint/ImTiredOfNetcad.dll
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.pdb
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ImTiredOfNetcad.genruntimeconfig.cache
+/Users/adiel/Desktop/C-function-func-for-short-/ImTiredOfNetcad/obj/Debug/net10.0/ref/ImTiredOfNetcad.dll
