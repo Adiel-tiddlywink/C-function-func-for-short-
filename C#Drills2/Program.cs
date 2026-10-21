@@ -1,9 +1,10 @@
-﻿static int MyMethod(int x, int y) 
+﻿using System;
+class FahrenheitToCelsius
 {
-  return x + y;
-}
-
-static void Main(string[] args)
-{
-  Console.WriteLine(MyMethod(5, 3));
+    static void Main(string[] args)
+    {
+        double Fahrenheit = 82;
+        double Celsius = (Fahrenheit - 32) * 5 / 9;
+        Console.WriteLine("Temperature in celsius is:" + Celsius);
+    }
 }
