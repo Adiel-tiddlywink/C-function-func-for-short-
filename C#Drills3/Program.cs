@@ -1,7 +1,4 @@
-﻿using System;
-class Program
-{
-    static bool isEven(int n)
+﻿static bool isEven(int n)
     {
         // finding remainder of n
         int rem = n % 2;
@@ -22,4 +19,3 @@ class Program
         else
             Console.WriteLine("false");
     }
-}
