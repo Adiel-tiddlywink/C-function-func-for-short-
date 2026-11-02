@@ -5,7 +5,9 @@ class Program
     {
         // finding remainder of n
         int rem = n % 2;
-        if (rem == 0){
+        // rem = remainder
+        if (rem == 0)
+        {
             return true;
         }
         else
@@ -16,7 +18,9 @@ class Program
     
     static void Main()
     {
-        int n = 15;
+        // n = number
+        // if int n is even, it'll print true. if not, false.
+        int n = 16;
         if (isEven(n))
             Console.WriteLine("true");
         else

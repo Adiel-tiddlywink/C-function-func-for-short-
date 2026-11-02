@@ -1,6 +1,6 @@
 ﻿static void PrintMethods(string name) 
 {
-  Console.WriteLine("Hi " + name + " welcome to C# class!");
+  Console.WriteLine("Hi " + name + ", welcome to C# class!");
 }
 
 {

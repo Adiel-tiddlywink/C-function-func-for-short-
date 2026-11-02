@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImTiredOfNetcad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dd9b454410d7fd7c8ec5ce6625ad27eeb66ef75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+760c9c9159055dc741b20c5d2f5e65473809919d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImTiredOfNetcad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImTiredOfNetcad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
