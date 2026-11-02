@@ -20,10 +20,12 @@ class Program
     {
         // n = number
         // if int n is even, it'll print true. if not, false.
-        int n = 16;
-        if (isEven(n))
-            Console.WriteLine("true");
-        else
-            Console.WriteLine("false");
+        int n = 0;
+        // if (isEven(n))
+        //     Console.WriteLine("true");
+        // else
+        //     Console.WriteLine("false");
+        bool v = isEven(n);
+        Console.WriteLine(v);
     }
 }
