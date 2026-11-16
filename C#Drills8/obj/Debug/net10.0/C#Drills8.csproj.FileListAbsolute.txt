@@ -1,0 +1,15 @@
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.AssemblyInfoInputs.cache
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.AssemblyInfo.cs
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.csproj.CoreCompileInputs.cache
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.sourcelink.json
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/bin/Debug/net10.0/C#Drills8
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/bin/Debug/net10.0/C#Drills8.deps.json
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/bin/Debug/net10.0/C#Drills8.runtimeconfig.json
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/bin/Debug/net10.0/C#Drills8.dll
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/bin/Debug/net10.0/C#Drills8.pdb
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.dll
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/refint/C#Drills8.dll
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.pdb
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/C#Drills8.genruntimeconfig.cache
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills8/obj/Debug/net10.0/ref/C#Drills8.dll
