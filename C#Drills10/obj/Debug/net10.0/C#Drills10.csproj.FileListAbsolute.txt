@@ -1,0 +1,5 @@
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.AssemblyInfoInputs.cache
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.AssemblyInfo.cs
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.csproj.CoreCompileInputs.cache
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.sourcelink.json
