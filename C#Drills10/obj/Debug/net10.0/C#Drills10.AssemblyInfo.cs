@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#Drills10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b290ed2f7efd472dba6152c9ea5afe593ffe9cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2696c7c7ec63b6af30de7f5b0131e716087d6bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#Drills10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#Drills10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,3 +3,13 @@
 /Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.AssemblyInfo.cs
 /Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.csproj.CoreCompileInputs.cache
 /Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.sourcelink.json
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/bin/Debug/net10.0/C#Drills10
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/bin/Debug/net10.0/C#Drills10.deps.json
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/bin/Debug/net10.0/C#Drills10.runtimeconfig.json
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/bin/Debug/net10.0/C#Drills10.dll
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/bin/Debug/net10.0/C#Drills10.pdb
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.dll
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/refint/C#Drills10.dll
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.pdb
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/C#Drills10.genruntimeconfig.cache
+/Users/adiel/Desktop/C-function-func-for-short-/C#Drills10/obj/Debug/net10.0/ref/C#Drills10.dll
